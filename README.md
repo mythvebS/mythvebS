@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm mythvebS 👋
 
-<!--
-**mythvebS/mythvebS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 **Who am I?**
+  - Beginner Software Engineer
+  - Learning through real projects and AI-assisted development
 
-Here are some ideas to get you started:
+- 🚧 **What am I working on?**
+  - AI-powered applications
+  - Backend with Python
+  - Personal portfolio projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 **Tools**
+  - Python
+  - JavaScript
+  - Git & GitHub
+  - VS Code
+  - ChatGPT
+  - Codex
+
+- 🎯 **My goal**
+  - Become a skilled software engineer
+  - Build practical and useful applications
+
+- 📫 **How to reach me?**
+  - GitHub
+  - Discord
+  - Email
