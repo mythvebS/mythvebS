@@ -22,6 +22,4 @@
   - Build practical and useful applications
 
 - 📫 **How to reach me?**
-  - GitHub
-  - Discord
-  - Email
+  - GitHub: https://github.com/mythvebS
