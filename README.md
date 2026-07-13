@@ -17,9 +17,5 @@
   - ChatGPT
   - Codex
 
-- 🎯 **My goal**
-  - Become a skilled software engineer
-  - Build practical and useful applications
-
 - 📫 **How to reach me?**
   - GitHub: https://github.com/mythvebS
